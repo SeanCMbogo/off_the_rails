@@ -1,2 +1,2 @@
-# off_the_rals
+# Off The Rails
 Ruby on Rails Project 
